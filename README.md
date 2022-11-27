@@ -1,4 +1,4 @@
-# Hosuing Cost
+# Housing Cost
 
 Data used for housing cost predictions
 
