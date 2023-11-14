@@ -1,6 +1,6 @@
 '''
 Author: Eric Reschke
-Cite: https://www.metricsnavigator.com/housing-cost-data-model/
+Cite: https://www.metricsnavigator.com/housing-cost-prediction/
 Last Reviewed: 2023-11-14
 License: Open to all
 '''
