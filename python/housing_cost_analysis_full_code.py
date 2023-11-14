@@ -1,7 +1,7 @@
 '''
 Author: Eric Reschke
-Cite: https://metricsnavigator.org/housing-cost-regression/
-Last Reviewed: 2022-11-25
+Cite: https://www.metricsnavigator.com/housing-cost-data-model/
+Last Reviewed: 2023-11-14
 License: Open to all
 '''
 
